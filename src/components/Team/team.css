@@ -68,6 +68,9 @@
 
 .back {
     background-color: rgb(188, 184, 184);
+    gap: 0.7rem;
+    display: flex;
+    flex-direction: column;
     transform: rotateY(180deg);
     color: black;
 }

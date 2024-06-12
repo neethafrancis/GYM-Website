@@ -57,7 +57,8 @@ function team() {
                             <img className='img1'src={team4} alt=''></img>
                             </div>
                             <div className='back'>
-                                <h2> Text Extraction and Recognition from Certificates </h2>
+                                <h2> Lary Mathew </h2><br />
+                                <h3>Coach</h3>
                             </div>
                         </div>
                     </div>

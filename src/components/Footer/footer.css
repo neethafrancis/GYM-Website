@@ -48,14 +48,15 @@ body {
   .contact-right button {
     padding: 0.5rem;
     border: none;
-    background-color: rgb(75, 92, 117);
+    background-color: rgb(175, 175, 24);
     color: #fff;
     cursor: pointer;
     border-radius: 4px;
+    /* rgb(75, 92, 117) */
   }
   
   .contact-right button:hover {
-    background-color: #555;
+    background-color: rgb(87, 87, 21);
   }
   
   /* Responsive Design */
